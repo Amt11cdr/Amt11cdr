@@ -76,7 +76,7 @@ Biomedical Data Analysis
 
 ## Current Direction
 
-I am interested in building **AI and data infrastructure for Healthcare and Technology organizations **, particularly systems that combine:
+I am interested in building **AI and data infrastructure for Healthcare and Technology organizations**, particularly systems that combine:
 
 - clinical datasets
 - biological data
