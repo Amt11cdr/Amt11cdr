@@ -1,90 +1,43 @@
-# Hi, I'm Amritansh Tiwari
+# Amritansh Tiwari
 
-MSc **Artificial Intelligence for Medicine and Medical Research**  
+MSc **Artificial Intelligence for Medicine & Medical Research**
 University College Dublin
 
-I build systems at the intersection of:
-
-- Data Engineering
-- Medical AI
-- Biomedical Data Systems
-- Computational Biology
-
-My work focuses on designing **data pipelines, analytical workflows, and decision systems** for healthcare and biomedical data.
+I build **data and AI systems** — data pipelines, decision engines, and analytical platforms — particularly for **healthcare and scientific data**.
 
 ---
 
-## Current Focus
+## Focus
 
-- Data engineering for healthcare datasets
-- AI systems for medical data
-- Building reproducible biomedical analysis pipelines
-- Designing real-world data platforms
-
----
-
-## Featured Projects
-
-### FAERS Mini Lakehouse
-End-to-end data engineering pipeline built on FDA openFDA adverse event data.
-
-Architecture:
-
-API → JSONL → Bronze → Silver → Gold
-
-Demonstrates:
-
-- Data ingestion
-- Schema normalization
-- Analytics-ready data layers
+* Data Engineering
+* Machine Learning Systems
+* Biomedical Data Platforms
+* Computational Biology
 
 ---
 
-### Fraud Detection Decision Platform
-A real-time fraud scoring system using rule-based decision logic and a FastAPI scoring service.
+## Selected Projects
 
-Demonstrates:
+**Fraud Detection Decision Platform**
+Real-time fraud scoring system using rule-based routing and ML inference through a FastAPI service.
 
-- Event simulation
-- Decision systems
-- Real-time API scoring
-- Audit logging
+**FAERS Mini Lakehouse**
+End-to-end data pipeline for FDA adverse event data.
+Architecture: API → Bronze → Silver → Gold.
 
----
-
-### TCGA ERBB2 Expression Analysis
-Gene expression analysis of ERBB2-amplified breast cancer using TCGA data.
-
-Includes:
-
-- Differential gene expression analysis (DESeq2)
-- PCA and heatmap visualisation
-- Survival modelling using LASSO Cox regression
+**TCGA ERBB2 Expression Analysis**
+Gene expression analysis of ERBB2-amplified breast cancer using TCGA datasets.
 
 ---
 
-## Tech Stack
+## Tech
 
-Python  
-R  
-FastAPI  
-Pandas  
-Data Pipelines  
-Biomedical Data Analysis
+Python • R • FastAPI • Pandas • Scikit-learn • Data Pipelines
 
 ---
 
-## Current Direction
+## Links
 
-I am interested in building **AI and data infrastructure for Healthcare and Technology organizations**, particularly systems that combine:
-
-- clinical datasets
-- biological data
-- scalable analytics pipelines
-
----
-
-## Contact
-
-GitHub: https://github.com/Amt11cdr  
+GitHub: https://github.com/Amt11cdr
 LinkedIn: https://www.linkedin.com/in/amritansh-tiwari-538b311b2
+
