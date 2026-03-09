@@ -38,6 +38,5 @@ Python • R • FastAPI • Pandas • Scikit-learn • Data Pipelines
 
 ## Links
 
-GitHub: https://github.com/Amt11cdr
 LinkedIn: https://www.linkedin.com/in/amritansh-tiwari-538b311b2
 
